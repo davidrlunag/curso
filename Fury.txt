@@ -1,1 +1,3 @@
 Prueba de GIT en el curso
+
+Esto es una línea diferente a la del profe
